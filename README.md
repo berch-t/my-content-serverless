@@ -4,6 +4,10 @@
 
 ![My Content App Interface](app/public/UI.png)
 
+### 🔄 Dual-API
+
+![Dual-API](app/public/api-manager.png)
+
 ## ✨ Aperçu
 
 My Content est une application de recommandation personnalisée qui combine deux approches d'IA pour offrir des suggestions d'articles précises et pertinentes :
