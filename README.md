@@ -2,7 +2,7 @@
 
 🚀 **Application de recommandation de contenu ultra-moderne** utilisant Next.js 14+, intelligence artificielle hybride (Content-Based + Collaborative Filtering), et architecture cloud native avec Google Cloud Platform.
 
-![My Content App Interface](.app/public/UI.png)
+![My Content App Interface](app/public/UI.png)
 
 ## ✨ Aperçu
 
