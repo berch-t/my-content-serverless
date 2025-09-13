@@ -1,0 +1,11 @@
+# Requirements pour API locale FastAPI
+# Usage: pip install -r requirements_local.txt
+
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pandas>=2.0.0
+numpy<2.0.0
+scikit-learn>=1.3.0
+scikit-surprise>=1.1.3
+pydantic>=2.5.0
+python-multipart>=0.0.6

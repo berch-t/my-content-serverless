@@ -1,0 +1,21 @@
+# venv & config
+.content_reco/
+.claude
+CLAUDE.md
+docs/
+.old_and_config/
+scripts/__pycache__/
+
+# local
+app/.next/
+app/node_modules/
+.env.local
+.env.production
+
+# Models
+scripts/models/*.pkl
+data/news-portal-user-interactions-by-globocom/*.pickle
+data/news-portal-user-interactions-by-globocom/clicks/
+
+
+
