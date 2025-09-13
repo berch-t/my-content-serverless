@@ -4,7 +4,7 @@
 
 ![My Content App Interface](app/public/UI.png)
 
-### 🔄 Dual-API
+### 🔄 Dual-API Manager
 
 ![Dual-API](app/public/api-manager.png)
 
